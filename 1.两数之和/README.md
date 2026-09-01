@@ -1,4 +1,4 @@
-# [0001] 两数之和
+# [1] 两数之和
 
 - **LeetCode 链接**: [两数之和](https://leetcode.cn/problems/two-sum/)
 - **难度**: Easy
