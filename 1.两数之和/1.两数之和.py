@@ -19,5 +19,6 @@ class Solution(object):
                 return[seen[c],i]
             seen[num] = i
      
+     
 # @lc code=end
 
